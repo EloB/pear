@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+<name>elob.github.com/pear</name>
+<summary>ELoB's PEAR Channel Server</summary>
+<alias>EloB</alias>
+<url>http://elob.github.com/pear</url>
+</server>
